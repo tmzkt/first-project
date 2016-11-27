@@ -1,2 +1,2 @@
 # first-project
-First project with actual code
+First project with code
